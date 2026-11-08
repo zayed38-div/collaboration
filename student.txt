@@ -1,0 +1,5 @@
+Student Management System
+
+Student Name: Al Zayed
+
+Department: Computer Science
